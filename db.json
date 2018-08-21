@@ -1,0 +1,20 @@
+{  
+   "question":"tripRouteCoordinates",
+   "uid":"1234",
+   "tripId":"trip2",
+   "routeId":"route1",
+   "data":[  
+      {  
+         "lat":12.45,
+         "long":-14526.454
+      },
+      {  
+         "lat":12.45,
+         "long":-14526.454
+      },
+      {  
+         "lat":12.45,
+         "long":-14526.454
+      }
+   ]
+}
